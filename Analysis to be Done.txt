@@ -1,0 +1,12 @@
+FInd the following :-
+
+- Max FDI
+- Min FDI
+- FDI Trend
+- Sector Grouping & Comparision
+- Highest Growth
+- Highest Decline
+- Variation
+- Proportion of FDI
+- Cluters
+- Trend Forecast
